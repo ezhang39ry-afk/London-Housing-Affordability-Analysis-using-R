@@ -1,0 +1,31 @@
+# Transport Infrastructure and Housing Affordability in London
+
+## Overview
+This project investigates housing affordability trends across London boroughs between 1997 and 2025 using Office for National Statistics (ONS) data.
+
+The analysis explores:
+- Long-term affordability deterioration
+- Borough-level variation
+- The relationship between Crossrail connectivity and affordability changes
+
+## Research Question
+Did transport-connected London boroughs experience stronger housing affordability deterioration between 1997 and 2025?
+
+## Tools Used
+- R
+- tidyverse
+- ggplot2
+
+## Methods
+- Data cleaning and transformation
+- Time-series analysis
+- Visualisation
+- Welch Two Sample t-tests
+
+## Key Findings
+- Housing affordability worsened substantially across London boroughs between 1997–2025.
+- Outer boroughs experienced some of the largest increases in unaffordability.
+- Crossrail-connected boroughs did not exhibit statistically significant differences in affordability deterioration compared to non-Crossrail boroughs.
+
+## Outputs
+Graphs and visualisations are stored in the outputs folder.
